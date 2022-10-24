@@ -1,11 +1,11 @@
 # Flipper Music! 🎵
 
-Music files in .fmf format for the Flipper Zero Music Player plugin
+Music files in `.fmf` format for the Flipper Zero Music Player plugin
 
 ## How to use these files
 
 1. Install qFlipper and connect your Flipper to computer
-2. Open a File manager tab, then SD Card, then mMsic player. 
+2. Open a File manager tab, then SD Card, then music player. 
 3. In there should be the file for Marble_Machine.fmf. Copy your new files into that folder, and the player should immediately be able to find them.
 
 ## How to create your own Music
@@ -33,12 +33,12 @@ dots: between 1 & 16 '.' characters. Each dot makes the note half again as long.
 
 #### Examples:
 
-8C4 - Eight note pitch of C, fourth octave
+`8C4` - Eight note pitch of C, fourth octave
 
-4A#5. - Dotted quarter note pitch of A sharp, fifth octave
+`4A#5.` - Dotted quarter note pitch of A sharp, fifth octave
 
-2P - Half note rest
+`2P` - Half note rest
 
 ### Add your own tune:
 
-Feel free to create a pull request to this repo!
+* Feel free to create a pull request to this repo!
